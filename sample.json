@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "appName": "Andalus",
+      "appIdentifier": "com.app.andalus",
+      "isBlocked": true
+    },
+    {
+      "appName": "Batavia",
+      "appIdentifier": "com.iosapp.batavia",
+      "isBlocked": true
+    },
+    {
+      "appName": "Clubmatch",
+      "appIdentifier": "com.app.clubmatch",
+      "isBlocked": false
+    },
+    {
+      "appName": "Family Connect",
+      "appIdentifier": "com.app.familyconnect",
+      "isBlocked": false
+    }
+  ]
+}
